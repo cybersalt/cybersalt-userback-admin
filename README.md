@@ -16,24 +16,23 @@ This makes it easy for administrators to capture feedback, report bugs, and shar
 
 ## 📦 Installation
 
-1. **Download** or clone this repository.
-2. Zip the plugin folder:
-   ```bash
-   zip -r plg_system_cybersaltuserbackadmin.zip plg_system_cybersaltuserbackadmin/
+1. **Download** this repository by:
+   ```
+   Code → Download ZIP
    ```
 
-3. In Joomla Administrator, go to:
+2. In Joomla Administrator, go to:
    ```
    System → Extensions → Install
    ```
 
-4. Upload and install the zip file.
-5. Go to:
+3. Upload and install the zip file.
+4. Go to:
    ```
    System → Manage → Plugins
    ```
    and search for **Cybersalt Userback Admin**.
-6. Open the plugin, enter your **Userback Access Token**, and enable it.
+5. Open the plugin, enter your **Userback Access Token**, and enable it.
 
 ---
 
