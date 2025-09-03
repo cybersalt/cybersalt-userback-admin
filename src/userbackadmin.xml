@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade" version="5.0">
+    <name>Cybersalt Userback Admin</name>
+    <author>Gurnoor Deol</author>
+    <creationDate>2025-09-01</creationDate>
+    <version>1.0.0</version>
+    <description>Injects the Userback feedback widget into Joomla Administrator backend.</description>
+    <files>
+        <filename plugin="userbackadmin">userbackadmin.php</filename>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field
+                    name="access_token"
+                    type="text"
+                    label="Userback Access Token"
+                    description="Enter your Userback project access token here."
+                />
+            </fieldset>
+        </fields>
+    </config>
+</extension>
