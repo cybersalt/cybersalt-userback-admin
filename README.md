@@ -72,7 +72,7 @@ Clone, fork, or contribute on GitHub!
 
 ## 📜 License
 
-GNU General Public License — feel free to use and modify.
+GNU (General Public License) — feel free to use and modify.
 
 ---
 
